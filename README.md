@@ -1,5 +1,10 @@
-SublimeText TypeScript Bundle
-=============================
+[DEPRECATED] SublimeText TypeScript Bundle
+==========================================
+
+**Use Microsoft's official plugin instead!**
+> https://github.com/Microsoft/TypeScript-Sublime-Plugin
+
+- - -
 
 I created this repository so `TypeScript.tmLanguage` could be easily installed via [Package Control][2]:
 
